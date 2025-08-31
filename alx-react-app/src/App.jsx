@@ -1,3 +1,4 @@
+import UserProfile from './components/UserProfile';
 import { useState } from 'react';
 import WelcomeMessage from './components/WelcomeMessage';
 import Header from './components/Header';
@@ -46,3 +47,4 @@ function App() {
 }
 
 export default App;
+
