@@ -10,7 +10,8 @@ const UserProfile = (props) => {
         boxShadow: '0 1px 2px rgba(0,0,0,0.06)'
       }}
     >
-      <h2 style={{ color: '#1f2937', margin: '0 0 8px 0', fontSize: '1.25rem' }}>
+      {/* Requirement: h2 name must be blue */}
+      <h2 style={{ color: 'blue', margin: '0 0 8px 0', fontSize: '1.25rem' }}>
         {props.name}
       </h2>
       <p style={{ margin: '4px 0', color: '#374151' }}>
