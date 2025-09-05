@@ -11,7 +11,7 @@ function MainContent() {
       }}
     >
       <p style={{ margin: 0 }}>
-        I love to visit <strong>New York</strong>, <strong>Paris</strong>, and <strong>Tokyo</strong>.
+        I love to visit New York, Paris, and Tokyo.
       </p>
     </main>
   );
